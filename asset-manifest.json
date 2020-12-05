@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robokitty/static/css/main.4666c376.chunk.css",
+    "main.js": "/robokitty/static/js/main.46e5bffc.chunk.js",
+    "main.js.map": "/robokitty/static/js/main.46e5bffc.chunk.js.map",
+    "runtime-main.js": "/robokitty/static/js/runtime-main.3757ce3c.js",
+    "runtime-main.js.map": "/robokitty/static/js/runtime-main.3757ce3c.js.map",
+    "static/css/2.31461e4f.chunk.css": "/robokitty/static/css/2.31461e4f.chunk.css",
+    "static/js/2.498a4b53.chunk.js": "/robokitty/static/js/2.498a4b53.chunk.js",
+    "static/js/2.498a4b53.chunk.js.map": "/robokitty/static/js/2.498a4b53.chunk.js.map",
+    "static/js/3.db6cb1d3.chunk.js": "/robokitty/static/js/3.db6cb1d3.chunk.js",
+    "static/js/3.db6cb1d3.chunk.js.map": "/robokitty/static/js/3.db6cb1d3.chunk.js.map",
+    "index.html": "/robokitty/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/robokitty/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.4666c376.chunk.css.map": "/robokitty/static/css/main.4666c376.chunk.css.map",
+    "static/js/2.498a4b53.chunk.js.LICENSE.txt": "/robokitty/static/js/2.498a4b53.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robokitty/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3757ce3c.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.498a4b53.chunk.js",
+    "static/css/main.4666c376.chunk.css",
+    "static/js/main.46e5bffc.chunk.js"
+  ]
+}
