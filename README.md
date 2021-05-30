@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# RoboKitty
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is part of the Complete Web Development course 2021 on udemy.com, and shows some cards that can be searched by typing in the "Find kittens" textbox. 
+
+Enjoy!
 
 ## Available Scripts
 
